@@ -6,7 +6,8 @@
  ## 3. File Description
 ~~~~~~~
         disaster_response_pipeline
-          |-- app.py                                               
+          |-- app                            
+                |-- app.py                   
           |-- datasets
                 |-- df_clean.csv    
                 |-- disaster_response_messages_test.csv   
@@ -18,7 +19,6 @@
                 |-- 1_Data_cleaning.ipynb
                 |-- 2_EDA.ipynb
                 |-- 3_Random_Forest_Spellcheck.ipynb
-                     |-- run this notebook for Random Forest pickle file
                 |-- 4_Decision_Tree_Adaboost-SpellCheck.ipynb
           |-- reports
                 |-- Baseline_all.csv
@@ -156,4 +156,11 @@ We do not want miss critical food or water helps, or rescue helps. In order to g
  
  <img src="imgs/app_video.gif" alt="Drawing" style="width: 800px;"/>
  
+
  
+ 
+ 
+ 
+ 
+ 
+# disasermessageapp
