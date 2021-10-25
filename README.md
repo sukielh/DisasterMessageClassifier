@@ -1,7 +1,7 @@
 # Disaster Message Classifier
 #### Improving Access to Critical Information During Crisis
 
-<img src="imgs/58274551_303.jpeg" alt="Drawing" style="width: 400px;"/>
+<img src="imgs/Intro.jpeg" alt="Drawing" style="width: 400px;"/>
 
  ## 3. File Description
 ~~~~~~~
